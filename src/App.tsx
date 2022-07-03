@@ -10,6 +10,7 @@ function App() {
         </p>
         <p>Lorem ipsum</p>
         <p>Lorem ipsum</p>
+        <p>Lorem ipsum</p>
         <a
           className="App-link"
           href="https://reactjs2.org"
