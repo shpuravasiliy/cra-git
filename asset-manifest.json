@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cra-git/static/css/main.073c9b0a.css",
+    "main.js": "/cra-git/static/js/main.9f77afa7.js",
+    "static/js/787.72cc2922.chunk.js": "/cra-git/static/js/787.72cc2922.chunk.js",
+    "index.html": "/cra-git/index.html",
+    "main.073c9b0a.css.map": "/cra-git/static/css/main.073c9b0a.css.map",
+    "main.9f77afa7.js.map": "/cra-git/static/js/main.9f77afa7.js.map",
+    "787.72cc2922.chunk.js.map": "/cra-git/static/js/787.72cc2922.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f77afa7.js"
+  ]
+}
